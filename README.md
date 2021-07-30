@@ -8,17 +8,17 @@ Brief Description:
 
 We have created an ATmega32-based hardware for drone.
 
-Group Members:$~$
+Group Members: <br />
 
 Shayekh Bin Islam (1705009)
 
 Ridwanul Hasan Tanvir (1705016)
 
 
-$~~~$
+ <br /> <br />
 
 
-Under the supervision of
+Under the supervision of 
 
 Md. Masum Mushfiq (Lecturer, CSE, BUET)
 
