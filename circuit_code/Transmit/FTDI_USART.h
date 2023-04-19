@@ -6,6 +6,7 @@
 #define F_CPU 8000000UL							/* Define CPU clock Frequency e.g. here its 8MHz */
 #endif
 
+
 #define BAUDRATE 2400
 
 #define BAUD_PRESCALE (((F_CPU / (BAUDRATE * 16UL))) - 1)	/* Define prescale value */

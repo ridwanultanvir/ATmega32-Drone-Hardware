@@ -2,7 +2,7 @@
 
 CSE 316 Project - January 2021
 
-Project Name: ATmega32-based hardware for dron
+Project Name: ATmega32-based hardware for drone
 
 Brief Description:
 
@@ -20,7 +20,5 @@ Shayekh Bin Islam (1705009)
  <br /> <br />
 
 
-Under the supervision of 
-
-Md. Masum Mushfiq (Lecturer, CSE, BUET)
+Supervisor: Dr. A. B. M. Alim Al Islam, Professor, Department of CSE, BUET
 
