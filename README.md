@@ -5,7 +5,7 @@ CSE 316 Project - January 2021
 Project Name: ATmega32-based hardware for drone
 
 
-[Drone-Based-Hardware-Report.pdf](Report/Drone-Based-Hardware-Report.pdf)
+[Drone-Based-Hardware-Report.pdf](report/Drone-Based-Hardware-Report.pdf)
 
 
 Brief Description:
